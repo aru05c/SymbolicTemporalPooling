@@ -1,5 +1,5 @@
 # Symbolic Temporal Pooling
-Source code for the ICCV-2019 paper "A Symbolic Temporal Pooling method for Video-based
+Source code for the paper "A Symbolic Temporal Pooling method for Video-based
 Person Re-Identification". Our paper can be found here.
 
 
