@@ -1,6 +1,6 @@
 # Symbolic Temporal Pooling
 Source code for the paper "A Symbolic Temporal Pooling method for Video-based
-Person Re-Identification". Our paper can be found here.
+Person Re-Identification". Our paper can be found [here https://github.com/InnovArul/vidreid_cosegmentation ].
 
 
 
