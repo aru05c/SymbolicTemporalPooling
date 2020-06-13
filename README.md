@@ -12,6 +12,7 @@ In video-based person re-identification, both the spatial and temporal features 
 
 # Datasets
 We evaluated the performance of the proposed method on four well known data sets (MARS, iLIDS-VID, PRID2011 and P-DESTRE). Please follow [deep-person-reid https://github.com/KaiyangZhou/deep-person-reid] to prepare the data for MARS, iLIDS-VID, PRID2011 datasets.
+For P-DESTRE dataset, extract the bounding box for each person and save it in a single folder name with "PID". Use the evalaution protocol from [ http://p-destre.di.ubi.pt/]
 
 # Credits
 The source code is built upon the github repositories [https://github.com/jiyanggao/Video-Person-ReID]
